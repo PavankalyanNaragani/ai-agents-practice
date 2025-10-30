@@ -1,0 +1,7 @@
+1. Zero Shot Prompting
+2. One Shot Prompting
+3. Few Shot Prompting
+4. Chain of thoughts - ( COT ) Prompting
+5. Self Consistency Prompting
+6. Out Of Date Learning Technique
+7. Role Play Prompting
